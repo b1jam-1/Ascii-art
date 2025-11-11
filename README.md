@@ -2,6 +2,7 @@
 
 Transformez vos images BMP en œuvres d'art ASCII directement dans votre terminal.
 
+<img width="4244" height="1236" alt="illustration" src="https://github.com/user-attachments/assets/eee8080a-bd8e-4c1a-af23-7ea8c9db4137" />
 
 ---
 
@@ -29,6 +30,7 @@ Transformez vos images BMP en œuvres d'art ASCII directement dans votre termina
 - Redimensionnement flexible (largeur, hauteur, ratio caractère)
 - Jeu de caractères personnalisable
 - **Aucune dépendance externe** pour la lecture BMP
+
 
 ---
 
